@@ -1,21 +1,40 @@
-<h1 align="center">SQLBot 配煤专家问答系统</h1>
+<div align="center">
 
-<p align="center">
-  <a href="#-项目简介">项目简介</a> •
-  <a href="#-核心特性">核心特性</a> •
-  <a href="#-目录结构">目录结构</a> •
-  <a href="#-快速部署">快速部署</a> •
-  <a href="#-使用指南">使用指南</a> •
+# 🔥 配煤专家智能问数系统
+
+### Coal-Blend ChatBI · 基于大模型与 RAG 的对话式数据分析平台
+
+<p>
+  用自然语言提问，自动完成 <b>SQL 生成 → 数据查询 → 可视化出图 → 智能分析</b><br/>
+  面向配煤行业深度定制，内置专家知识库，让煤质数据"越问越准"
+</p>
+
+<p>
+  <a href="https://github.com/FeynmanNddbb/coal-blend-chatbi/stargazers"><img src="https://img.shields.io/github/stars/FeynmanNddbb/coal-blend-chatbi?style=flat-square&logo=github&color=yellow" alt="Stars"></a>
+  <a href="https://github.com/FeynmanNddbb/coal-blend-chatbi/network/members"><img src="https://img.shields.io/github/forks/FeynmanNddbb/coal-blend-chatbi?style=flat-square&logo=github&color=blue" alt="Forks"></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License"></a>
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs Welcome">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-0.115-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Vue-3.5-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue">
+  <img src="https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/LangChain-RAG-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+</p>
+
+<p>
+  <a href="#-项目简介">项目简介</a> &nbsp;·&nbsp;
+  <a href="#-核心特性">核心特性</a> &nbsp;·&nbsp;
+  <a href="#-目录结构">目录结构</a> &nbsp;·&nbsp;
+  <a href="#-快速部署">快速部署</a> &nbsp;·&nbsp;
+  <a href="#-使用指南">使用指南</a> &nbsp;·&nbsp;
   <a href="#-技术架构">技术架构</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/FastAPI-0.115-green?style=flat-square&logo=fastapi" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Vue-3.5-brightgreen?style=flat-square&logo=vue.js" alt="Vue">
-  <img src="https://img.shields.io/badge/PostgreSQL-16-blue?style=flat-square&logo=postgresql" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/License-GPL--3.0-orange?style=flat-square" alt="License">
-</p>
+</div>
 
 ---
 
